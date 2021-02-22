@@ -59,4 +59,4 @@ So? Lets build some awesome stuff!
   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=darthrodolfo.darthrodolfo)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=darthrodolfo)
