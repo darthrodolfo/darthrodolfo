@@ -23,17 +23,17 @@ I've been working with software development since 2011. I've been studing and le
 
 :heart: I'm passionate in being able to use my experience and knowledge to contribute on the process of creating awesome projects and solutions with great people.
 
-### Learning 
+### Learning 🧠 
 I like being immersed in software development.
 **So, for studying and learning I use these sources of knowledge:**
 - ⚡ People (Mentors & colleagues)
 - :books: Reading (Books, Articles, Medium).
-- Courses
-- :dart: Events
-- Podcasts
-- Reading and playing with other's code (Github & etc).
+- :mortar_board: Courses
+- :red_circle: Events
+- :headphones: Podcasts
+-  :books: Reading and playing with other's code (Github & etc).
 
-### Previously on my carrear:
+### Previously on my career :cowboy_hat_face::
 
 I've worked most of the time as a backend developer using .NET Framework, Relational and Non-Relational databases, consuming and building API's and other kinds of projects.
 
