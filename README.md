@@ -41,9 +41,9 @@ I've worked most of the time as a backend developer using .NET Framework, Relati
 
 ### Mastering
 🌱 Nowdays Im focused in mastering Flutter framework.
+
+
 <img src="https://challengerocket.com/content/2019/08/1565360407_learn-coding-programming-languages-developer.gif" width="400px">
-
-
 
 📫 Also you can find me here:
 
