@@ -39,6 +39,7 @@ I've worked most of the time as a backend developer using .NET Framework, Relati
 
 ### Mastering
 🌱 Nowdays Im focused in mastering Flutter framework.
+<img src="https://challengerocket.com/content/2019/08/1565360407_learn-coding-programming-languages-developer.gif" width="200px">
 
 <img src="https://media1.tenor.com/images/86f2936e3b4e83969d4096dc3a2635b2/tenor.gif" width="300px">
 
@@ -46,8 +47,10 @@ I've worked most of the time as a backend developer using .NET Framework, Relati
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolfodiasvenancio/)](https://www.linkedin.com/in/rodolfodiasvenancio/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/darth_rodolfo)](https://twitter.com/darth_rodolfo)
-Resume :star: : https://resume.io/r/cLEk6c2IG
 
+Resume in:
+English :star: : https://resume.io/r/cLEk6c2IG
+PT-BR :start: : https://resume.io/r/4fvCIcu4F
 So? Lets build some awesome stuff!
 
 
