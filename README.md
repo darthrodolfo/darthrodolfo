@@ -28,7 +28,8 @@ I've been working with software development since 2011. I've been studing and le
 
 
 ## Learning 🧠 
-I immerse myself in software development learning.
+I'm immersed on software development learning
+
 **So, for studying and learning I use these sources of knowledge:**
 - ⚡ People (Mentors & colleagues)
 - :books: Reading (Books, Articles, Medium).
