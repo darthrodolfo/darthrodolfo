@@ -38,21 +38,15 @@ I like being immersed in software development.
 
 <img src="https://media1.tenor.com/images/71a38d2d8cd692a63fbde70f899b3afc/tenor.gif?itemid=15313949" width="300">
 
-<hr>
-
 ## Previously on my career :cowboy_hat_face::
 
 I've worked most of the time as a backend developer using .NET Framework, Relational and Non-Relational databases, consuming and building API's and other kinds of projects.
-
-<hr>
 
 ## Mastering
 🌱 Nowdays Im focused in mastering Flutter framework.
 
 
 <img src="https://challengerocket.com/content/2019/08/1565360407_learn-coding-programming-languages-developer.gif" width="300px">
-
-<hr>
 
 ## 📫 Also you can find me here:
 
@@ -64,7 +58,6 @@ English :star: : https://resume.io/r/cLEk6c2IG
 PT-BR :start: : https://resume.io/r/4fvCIcu4F
 So? Lets build some awesome stuff!
 
-<hr>
 
 ## 🚀💻 Technologies & Tools
 
