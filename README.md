@@ -23,7 +23,7 @@ I've been working with software development since 2011. I've been studing and le
 
 :heart: I'm passionate in being able to use my experience and knowledge to contribute on the process of creating awesome projects and solutions with great people.
 
-<img src="https://media1.tenor.com/images/86f2936e3b4e83969d4096dc3a2635b2/tenor.gif" width="300px">
+<img src="https://media1.tenor.com/images/86f2936e3b4e83969d4096dc3a2635b2/tenor.gif" width="400px">
 
 ### Learning 🧠 
 I like being immersed in software development.
@@ -41,7 +41,7 @@ I've worked most of the time as a backend developer using .NET Framework, Relati
 
 ### Mastering
 🌱 Nowdays Im focused in mastering Flutter framework.
-<img src="https://challengerocket.com/content/2019/08/1565360407_learn-coding-programming-languages-developer.gif" width="300px">
+<img src="https://challengerocket.com/content/2019/08/1565360407_learn-coding-programming-languages-developer.gif" width="400px">
 
 
 
