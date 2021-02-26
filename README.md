@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### About me
+## About me
 My name is **Rodolfo**, also know as *"Darth"* like the Darth Vader from Star Wars hahaha.😄
 I'm a software developer currently living in São Paulo, Brazil 
 I've been working with software development since 2011. I've been studing and learning about software development and other concepts like UI/UX, Agile methods, and other subjects directly envolved on the process of software development. 
@@ -25,7 +25,6 @@ I've been working with software development since 2011. I've been studing and le
 
 <img src="https://media1.tenor.com/images/86f2936e3b4e83969d4096dc3a2635b2/tenor.gif" width="300px">
 
-<hr>
 
 ## Learning 🧠 
 I like being immersed in software development.
