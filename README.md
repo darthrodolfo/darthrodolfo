@@ -25,6 +25,8 @@ I've been working with software development since 2011. I've been studing and le
 
 <img src="https://media1.tenor.com/images/86f2936e3b4e83969d4096dc3a2635b2/tenor.gif" width="300px">
 
+<hr>
+
 ### Learning 🧠 
 I like being immersed in software development.
 **So, for studying and learning I use these sources of knowledge:**
