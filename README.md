@@ -23,7 +23,7 @@ I've been working with software development since 2011. I've been studing and le
 
 :heart: I'm passionate in being able to use my experience and knowledge to contribute on the process of creating awesome projects and solutions with great people.
 
-<img src="https://media1.tenor.com/images/86f2936e3b4e83969d4096dc3a2635b2/tenor.gif" width="400px">
+<img src="https://media1.tenor.com/images/86f2936e3b4e83969d4096dc3a2635b2/tenor.gif" width="300px">
 
 ### Learning 🧠 
 I like being immersed in software development.
@@ -35,6 +35,8 @@ I like being immersed in software development.
 - :headphones: Podcasts
 -  :books: Reading and playing with other's code (Github & etc).
 
+<img src="https://media1.tenor.com/images/71a38d2d8cd692a63fbde70f899b3afc/tenor.gif?itemid=15313949" width="300">
+
 ### Previously on my career :cowboy_hat_face::
 
 I've worked most of the time as a backend developer using .NET Framework, Relational and Non-Relational databases, consuming and building API's and other kinds of projects.
@@ -43,7 +45,7 @@ I've worked most of the time as a backend developer using .NET Framework, Relati
 🌱 Nowdays Im focused in mastering Flutter framework.
 
 
-<img src="https://challengerocket.com/content/2019/08/1565360407_learn-coding-programming-languages-developer.gif" width="400px">
+<img src="https://challengerocket.com/content/2019/08/1565360407_learn-coding-programming-languages-developer.gif" width="300px">
 
 📫 Also you can find me here:
 
