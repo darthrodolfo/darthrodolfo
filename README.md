@@ -34,8 +34,8 @@ I'm immersed on software development learning
 - ⚡ People (Mentors & colleagues)
 - :books: Reading (Books, Articles, Medium).
 - :mortar_board: Courses
-- :red_circle: Events
-- :headphones: Podcasts
+- :red_circle: Tech Events
+- :headphones: Tech Podcasts
 -  :books: Reading and playing with other's code (Github & etc).
 
 <img src="https://media1.tenor.com/images/71a38d2d8cd692a63fbde70f899b3afc/tenor.gif?itemid=15313949" width="300">
