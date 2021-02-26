@@ -46,6 +46,7 @@ I've worked most of the time as a backend developer using .NET Framework, Relati
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolfodiasvenancio/)](https://www.linkedin.com/in/rodolfodiasvenancio/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/darth_rodolfo)](https://twitter.com/darth_rodolfo)
+Resume :star: : https://resume.io/r/cLEk6c2IG
 
 So? Lets build some awesome stuff!
 
