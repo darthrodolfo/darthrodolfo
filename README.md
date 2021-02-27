@@ -21,7 +21,7 @@ I'm immersed on software development learning
 - :mortar_board: Courses (Currently reading **14 Habits of Highly Productive Developers**) (Its has an english version and a PT-BR one. https://14habits.com/br)
 - :red_circle: Tech Events
 - :headphones: Tech Podcasts
--  :books: Reading and playing with other's code (Github & etc).
+- :books: Reading and playing with other's code (Github & etc).
 
 <img src="https://media1.tenor.com/images/71a38d2d8cd692a63fbde70f899b3afc/tenor.gif?itemid=15313949" width="300">
 
@@ -53,6 +53,9 @@ I've worked most of the time as a backend developer using .NET Framework, Relati
 
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
+  
+  Also Im a Dark Theme lover hahahaha
+<img src="https://images.squarespace-cdn.com/content/v1/55ed989ee4b0c7f115ddc924/1573635433081-OWZPFA5F0W5OFFLIGU70/ke17ZwdGBToddI8pDm48kBg0NmR1oB1qkZBC9AlPOeZZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFQbcZJy5lKwxUYIs-Tp_WJmlHTdZbpp6S_XIVb1RlsrTFvbuqF0GUInBxxtVhBOn4/night-mode.gif?format=500w" width="200px">
   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 
