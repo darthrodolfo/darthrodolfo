@@ -1,5 +1,6 @@
 
 # Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=darthrodolfo)
 
 ## About me
 My name is **Rodolfo**, also know as *"Darth"* like the Darth Vader from Star Wars hahaha.😄
@@ -55,8 +56,10 @@ I've worked most of the time as a backend developer using .NET Framework, Relati
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
   
   Also Im a Dark Theme lover hahahaha
-<img src="https://images.squarespace-cdn.com/content/v1/55ed989ee4b0c7f115ddc924/1573635433081-OWZPFA5F0W5OFFLIGU70/ke17ZwdGBToddI8pDm48kBg0NmR1oB1qkZBC9AlPOeZZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFQbcZJy5lKwxUYIs-Tp_WJmlHTdZbpp6S_XIVb1RlsrTFvbuqF0GUInBxxtVhBOn4/night-mode.gif?format=500w" width="200px">
+
   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=darthrodolfo)
+
+
+<img src="https://images.squarespace-cdn.com/content/v1/55ed989ee4b0c7f115ddc924/1573635433081-OWZPFA5F0W5OFFLIGU70/ke17ZwdGBToddI8pDm48kBg0NmR1oB1qkZBC9AlPOeZZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFQbcZJy5lKwxUYIs-Tp_WJmlHTdZbpp6S_XIVb1RlsrTFvbuqF0GUInBxxtVhBOn4/night-mode.gif?format=500w" width="200px">
