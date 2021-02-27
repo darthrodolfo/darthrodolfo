@@ -1,18 +1,3 @@
-<!--
-**darthrodolfo/darthrodolfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 # Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
@@ -33,7 +18,7 @@ I'm immersed on software development learning
 **So, for studying and learning I use these sources of knowledge:**
 - ⚡ People (Mentors & colleagues)
 - :books: Reading (Books, Articles, Medium).
-- :mortar_board: Courses
+- :mortar_board: Courses (Currently reading **14 Habits of Highly Productive Developers**) (Its has an english version and a PT-BR one. https://14habits.com/br)
 - :red_circle: Tech Events
 - :headphones: Tech Podcasts
 -  :books: Reading and playing with other's code (Github & etc).
