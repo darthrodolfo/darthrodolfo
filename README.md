@@ -43,7 +43,7 @@ I've worked most of the time as a backend developer using .NET Framework, Relati
 
 ### Resume in:
 - English :star: : https://resume.io/r/cLEk6c2IG
-- PT-BR :start: : https://resume.io/r/4fvCIcu4F
+- PT-BR :star: : https://resume.io/r/4fvCIcu4F
 
 **So? Lets build some awesome stuff!**
 
