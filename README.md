@@ -1,6 +1,6 @@
 # Hi, I'm Rodolfo Venancio 🇧🇷 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### Senior Software Engineer | .NET/C# · Angular · Flutter | 15 Years Building Enterprise & FinTech Systems
+### Senior Software Engineer | .NET & Backend Specialist | Full-Stack Experience | Product- and UX-Oriented | AI Integration
 
 Senior Software Engineer with 15 years of experience building scalable, mission-critical systems. My core strength is backend development within the .NET ecosystem — designing resilient APIs, delivering high-performance services, and working closely with product and business teams to ensure what I build actually matters.
 
